@@ -1,0 +1,5 @@
+	|Simple Veg Thali		Rs. 190
+	|Simple Veg Thali		Rs. 190
+	|Special Veg Thali		Rs. 210
+	|Veg Deluxe Thali		Rs. 210
+	|Simple Non-Veg Thali		Rs. 210
