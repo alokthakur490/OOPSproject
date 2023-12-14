@@ -1,0 +1,2 @@
+1000007739		|223		|alok	|male	|JALANDHAR		|		|0	|
+1000007739		|223		|alok	|male	|JALANDHAR		|Delhi		|5200	|
